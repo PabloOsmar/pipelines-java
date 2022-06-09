@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/18232150959/Prueba/_apis/build/status/PabloOsmar.pipelines-java?branchName=main)](https://dev.azure.com/18232150959/Prueba/_build/latest?definitionId=1&branchName=main)
 
 # Contributing
 
